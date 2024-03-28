@@ -1,1 +1,4 @@
 # VivirConCancer3
+
+developing a Shiny application with R in Posit, for cancer patients and their caregivers based on the recommendations of the National Cancer Institute (NIH). It aims to offer support with some of the side effects for patients with colon and rectal, breast, prostate and lung cancer, and their caregivers, following the recommendations of the National Cancer Institute (NIH). The app will provide:
+Users will select their type of cancer and side effect, to receive individualized recommendations on how to manage it. The app will be based on the latest research and guidelines from the NIH, ensuring that the information is accurate and reliable. The app will offer advice to relieve symptoms such as nausea, fatigue, pain and anxiety, including non-pharmacological management strategies, and will also provide links to sites website and support organizations for cancer patients
